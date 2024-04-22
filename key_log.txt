@@ -1,0 +1,1 @@
+'c''h''a''r'Key.shift'8'Key.space'c''o''n''s''t'Key.space'w''o''r''d''s''['']'Key.enter
